@@ -1,2 +1,2 @@
 # photo-gallery
-Projetinho feito com Ionic que cria uma galeria de fotos. :)
+Projetinho feito com Ionic permite com que se tire fotos e armazene.
